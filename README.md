@@ -1,1 +1,2 @@
-# EdgeUNet
+# EdgeUNet in PyTorch
+[![MIT License](https://img.shields.io/badge/license-MIT-green.svg)](https://opensource.org/licenses/MIT) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg?style=flat-square)](http://makeapullrequest.com)Pytorch implementation for [EdgeUNet: Edge-Guided Multi-Loss Network for Drivable Area and Lane Segmentation in Autonomous Vehicles](https://ieeexplore.ieee.org/document/10756524/)(TITS)
