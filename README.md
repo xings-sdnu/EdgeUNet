@@ -9,8 +9,9 @@ Please cite our paper if you find the work useful:<br>
         author = {Xing Sheng, Junzhe Zhang, Zhen Wang, Zongtao Duan},
         title = {EdgeUNet: Edge-Guided Multi-Loss Network for Drivable Area and Lane Segmentation in Autonomous Vehicles},
         journal = {IEEE Transcations on Intelligent Transportation Systems},
-        volume = {},
-        pages = {},
+        volume = {26},
+        no = {2},
+        pages = {2530 - 2542},
         year = {2024},
         doi = {https://doi.org/10.1109/TITS.2024.3492383}
         }
