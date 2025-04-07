@@ -12,6 +12,6 @@ Please cite our paper if you find the work useful:<br>
         volume = {26},
         no = {2},
         pages = {2530 - 2542},
-        year = {2024},
+        year = {2025},
         doi = {https://doi.org/10.1109/TITS.2024.3492383}
         }
